@@ -1,0 +1,16 @@
+[
+{
+  "modid": "customworldgen",
+  "name": "CustomWorldGen",
+  "description": "Insert description here",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bestsoft100"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
