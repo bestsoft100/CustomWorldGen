@@ -1,0 +1,1 @@
+This mod allows modpack creators to add custom stuff to world generation.
